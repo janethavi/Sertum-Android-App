@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "480177982993",
+    "firebase_url": "https://sertum-fd2f4.firebaseio.com",
+    "project_id": "sertum-fd2f4",
+    "storage_bucket": "sertum-fd2f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480177982993:android:837de99998f9f39b",
+        "android_client_info": {
+          "package_name": "com.example.janeth.sertum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480177982993-iuemrcd4ko6tp9v011h4djee5744vvvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.janeth.sertum",
+            "certificate_hash": "4c56db354eb2d3f43a088a1417c5567f2abcb6ac"
+          }
+        },
+        {
+          "client_id": "480177982993-94cdnmcfodru3rkjurcl533j8a81oi4l.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "480177982993-94cdnmcfodru3rkjurcl533j8a81oi4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP_NlATdBtlXYsWB2DYIB6UIvynAvqbY8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480177982993-94cdnmcfodru3rkjurcl533j8a81oi4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
